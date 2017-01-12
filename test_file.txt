@@ -1,2 +1,2 @@
 #Kind a source code for GIT
-sedf
+# to byl blad
